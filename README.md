@@ -1,3 +1,7 @@
+![Project](https://img.shields.io/badge/project-electronics-blue)
+![Simulation](https://img.shields.io/badge/simulation-Simetrix-green)
+![PCB Design](https://img.shields.io/badge/design-FUSION360-orange)
+
 # 🔋 Synchronous Buck Converter – 60V to 3.3V @ 8A
 
 Design and simulation of a **high-frequency, microcontroller-monitored synchronous buck converter** for wide input voltage applications.
