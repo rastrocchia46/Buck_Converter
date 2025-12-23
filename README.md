@@ -3,6 +3,8 @@
 Design and simulation of a **high-frequency, microcontroller-monitored synchronous buck converter** for wide input voltage applications.
 The project focuses on **power stage dimensioning, efficiency optimization, thermal behavior, power supply management, user interfaces, PCB layout and 3D integration**, and **ADC signal conditioning** for embedded monitoring.
 
+<img width="1141" height="701" alt="immagine" src="https://github.com/user-attachments/assets/643a8cc9-9d21-49be-a600-432712502013" />
+
 ---
 
 ## 📌 Project Overview
